@@ -1,8 +1,8 @@
 #
 # requirements-swmm.txt - Python requirements for running nrtest
 #
-# Created:  Jun 3, 2020
-# Updated:
+# Created:  June  3, 2020
+# Updated:  July 24, 2024
 #
 # Author: See AUTHORS
 #
@@ -14,11 +14,11 @@
 
 aenum==3.1.11
 
-https://github.com/michaeltryby/nrtest/releases/download/v0.2.5/nrtest-0.2.5-py2.py3-none-any.whl
+https://github.com/USEPA/swmm-python/releases/download/v0.15.2/nrtest-0.2.5-py2.py3-none-any.whl
 nrtest==0.2.5
 
-https://github.com/SWMM-Project/swmm-python/releases/download/v0.15.2/swmm_toolkit-0.15.2-cp311-cp311-win_amd64.whl
+https://github.com/USEPA/swmm-python/releases/download/v0.15.2/swmm_toolkit-0.15.2-cp311-cp311-win_amd64.whl
 swmm-toolkit==0.15.2
 
-https://github.com/SWMM-Project/swmm-python/releases/download/v0.15.2/nrtest_swmm-0.8.0-py3-none-any.whl
+https://github.com/USEPA/swmm-python/releases/download/v0.15.2/nrtest_swmm-0.8.0-py3-none-any.whl
 nrtest-swmm==0.8.0
