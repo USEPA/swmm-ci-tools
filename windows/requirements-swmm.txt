@@ -14,7 +14,7 @@
 
 aenum==3.1.11
 
-https://${USERNAME}:${ACCESS_TOKEN}@github.com/USEPA/swmm-python/releases/download/v0.15.2/nrtest-0.2.5-py2.py3-none-any.whl
+git+https://github.com/USEPA/swmm-python/releases/download/v0.15.2/nrtest-0.2.5-py2.py3-none-any.whl
 nrtest==0.2.5
 
 https://github.com/USEPA/swmm-python/releases/download/v0.15.2/swmm_toolkit-0.15.2-cp311-cp311-win_amd64.whl
