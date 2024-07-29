@@ -12,12 +12,12 @@
 #   pip install -r tools/requirements-win.txt
 #
 
+-i https://usepa.github.io/swmm-python-index/
+
 aenum==3.1.11
 
 nrtest==0.2.5
 
-https://github.com/SWMM-Project/swmm-python/releases/download/v0.15.2/swmm_toolkit-0.15.2-cp311-cp311-macosx_10_9_x86_64.whl
 swmm-toolkit==0.15.2
 
-https://github.com/SWMM-Project/swmm-python/releases/download/v0.15.2/nrtest_swmm-0.7.0-py3-none-any.whl
-nrtest-swmm==0.7.0
+nrtest-swmm==0.8.0
